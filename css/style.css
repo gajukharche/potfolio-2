@@ -1,0 +1,130 @@
+:root {
+    --main-bg-color:  #8400ff;
+  }
+
+/*=============================================
+=                   Navbar                   =
+=============================================*/
+
+
+
+/*============  End of Navbar  =============*/
+
+
+/*=============================================
+=                   Intro                   =
+=============================================*/
+.intro{
+    background: var(--main-bg-color);
+    color: #fff;
+}
+
+.intro-title{
+    font-size: 3rem;
+}
+
+.intro-subtitle{
+    font-size: 2rem;
+    font-weight: 200;
+
+}
+
+.intro .text-slider-items {
+    display: none;
+  }
+  
+  .intro-content{
+      height: 100vh;
+  }
+
+/*============  End of Intro  =============*/
+
+ /*------/ Socials /------*/
+  
+ .socials {
+    padding: 0.5rem 0;
+  }
+  
+  .socials ul li {
+    display: inline-block;
+  }
+  
+  .socials .ico-circle {
+    height: 30px;
+    width: 30px;
+    font-size: 1rem;
+    border-radius: 50%;
+    line-height: 1.5;
+    margin: 0 15px 0 0;
+    box-shadow: 0 0 0 3px #fffb00;
+    transition: all 500ms ease;
+  }
+  
+  .socials .ico-circle:hover {
+    background-color: #f4ff53;
+    color: #fff;
+    box-shadow: 0 0 0 3px #000000;
+    transition: all 500ms ease;
+  }
+  
+  /*------/ Ul resect /------*/
+  
+  .ul-resect,
+  .socials ul,
+  .list-ico,
+  .blog-wrapper .post-meta ul,
+  .box-comments .list-comments,
+  .widget-sidebar .list-sidebar,
+  .widget-tags ul {
+    list-style: none;
+    padding-left: 0;
+    margin-bottom: 0;
+  }
+  
+  .list-ico {
+    line-height: 1;
+  }
+  
+  .list-ico span {
+    color: #8400ff;
+    margin-right: 10px;
+  }
+  
+  /*------/ Ico Circle /------*/
+  
+  .ico-circle {
+    height: 100px;
+    width: 100px;
+    font-size: 2rem;
+    border-radius: 50%;
+    line-height: 1.5;
+    margin: 0 auto;
+    text-align: center;
+    box-shadow: 0 0 0 10px #8400ff;
+    display: block;
+  }
+  
+  /*======================================
+//--//-->   FOOTER
+======================================*/
+
+footer {
+    text-align: center;
+    color: #fff;
+    padding-bottom: 10px;
+    background: #cc00ff;
+  }
+  
+  footer .copyright {
+    margin: 0.5rem;
+  }
+  
+  footer .credits {
+    margin-bottom: 0;
+  }
+  
+  footer .credits a {
+    color: #fff;
+  }
+
+  /*============  End of Footer section  =============*/
