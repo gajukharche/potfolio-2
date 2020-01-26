@@ -4,6 +4,10 @@
 
   }
 
+  body{
+    background: #eeeded;
+  }
+
 /*=============================================
 =                   Navbar                   =
 =============================================*/
@@ -219,3 +223,50 @@ footer {
   }
 
   /*============  End of Footer section  =============*/
+
+  /*=============================================
+  =                   about                   =
+  =============================================*/
+  #about{
+    margin: 80px 0px;
+   
+  }
+  .about-mf .box-shadow-full {
+    padding-top: 4rem;
+    padding-bottom: 4rem;
+  }
+  
+  .about-mf .about-img {
+    margin-bottom: 2rem;
+  }
+  
+  .about-mf .about-img img {
+    margin-left: 10px;
+  }
+  
+  .skill-mf span {
+    color: #4e4e4e;
+  }
+  
+  .skill-mf .progress {
+    background-color: #e3c5ff;
+    margin: .5rem 0 1rem 0;
+    border-radius: 5px;
+    height: .9rem;
+  }
+  
+  .skill-mf .progress .progress-bar {
+    height: .9rem;
+    background-color: #8400ff;
+  }
+
+    .box-shadow-full {
+      padding: 3rem 1.25rem;
+      position: relative;
+      background-color: #fff;
+      margin-bottom: 3rem;
+      z-index: 2;
+      box-shadow: 0 1px 1px 0 rgba(0, 0, 0, 0.06), 0 2px 5px 0 rgba(0, 0, 0, 0.2);
+  }
+  
+  /*============  End of about  =============*/
