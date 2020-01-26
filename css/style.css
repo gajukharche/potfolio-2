@@ -228,7 +228,9 @@ footer {
   =                   about                   =
   =============================================*/
   #about{
-    margin: 80px 0px;
+    
+    background-color: #e0e5ec;
+    
    
   }
   .about-mf .box-shadow-full {
@@ -263,10 +265,12 @@ footer {
     .box-shadow-full {
       padding: 3rem 1.25rem;
       position: relative;
-      background-color: #fff;
-      margin-bottom: 3rem;
+      background-color:#e0e5ec;
+      margin: 3rem;
       z-index: 2;
-      box-shadow: 0 1px 1px 0 rgba(0, 0, 0, 0.06), 0 2px 5px 0 rgba(0, 0, 0, 0.2);
+      //box-shadow: 10px 10px 30px 0 rgba(0, 0, 0, 0.06), -10px -10px 30px 0 rgba(0, 0, 0, 0.2);
+      border-radius: 10px;
+      box-shadow: -9px -9px 16px 0px #fff,9px 9px 16px 0px #A3b1c6;
   }
   
   /*============  End of about  =============*/
