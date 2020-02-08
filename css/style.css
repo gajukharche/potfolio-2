@@ -294,18 +294,18 @@ footer {
 /*=============================================
 =                   services                   =
 =============================================*/
-.services-mf{
+.services-mf {
  padding-top: 100px;
+ background-color:var(--ter-bg-color);
 }
 
-
-
-
 .service-box {
-  background-color: #fff;
+  background-color:var(--ter-bg-color);
   padding: 2.5rem 1.3rem;
   border-radius: 1rem;
   margin-bottom: 3rem;
+  box-shadow: -9px -9px 16px 0px #fff,9px 9px 16px 0px #A3b1c6;
+
 }
 
 .service-box:hover .ico-circle {

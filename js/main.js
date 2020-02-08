@@ -8,10 +8,3 @@
                 backDelay: 1100,
                 backSpeed: 30
             });
-
-
-	/*--/ Star Counter /--*/
-	$('.counter').counterUp({
-		delay: 15,
-		time: 2000
-    });
