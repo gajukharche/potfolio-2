@@ -15,8 +15,15 @@
 /*=============================================
 =                   Navbar                   =
 =============================================*/
+.navigation-wrap{
+  position: fixed;
+  z-index: 1000;
+  width: 100%;
+}
+
 .navbar{
-	padding: 0;
+  padding: 0;
+
 }
 .navbar-brand img{
 	height: 52px;
