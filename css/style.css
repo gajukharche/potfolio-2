@@ -285,7 +285,6 @@ footer {
       background-color:#e0e5ec;
       margin: 3rem;
       z-index: 2;
-      //box-shadow: 10px 10px 30px 0 rgba(0, 0, 0, 0.06), -10px -10px 30px 0 rgba(0, 0, 0, 0.2);
       border-radius: 10px;
       box-shadow: -9px -9px 16px 0px #fff,9px 9px 16px 0px #A3b1c6;
   }
