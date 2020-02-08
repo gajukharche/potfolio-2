@@ -1,7 +1,9 @@
 :root {
-    --main-bg-color:  #8400ff;
-  
-
+    --main-bg-color:  #ff4800;
+    --sec-bg-color:  #eeeded;
+    --ter-bg-color:   #e0e5ec;
+    --footer-text-color: #000;
+    ;
   }
 
   body{
@@ -123,6 +125,8 @@
 .intro{
     background: var(--main-bg-color);
     color: #fff;
+   
+  
 }
 
 .intro-title{
@@ -216,9 +220,9 @@
 
 footer {
     text-align: center;
-    color: #fff;
-    padding-bottom: 10px;
-    background: #cc00ff;
+    color: #000;
+    padding-bottom: 5px;
+    background:var(--sec-bg-color);
   }
   
   footer .copyright {
@@ -230,7 +234,7 @@ footer {
   }
   
   footer .credits a {
-    color: #fff;
+    color:#c2c2;
   }
 
   /*============  End of Footer section  =============*/
@@ -240,13 +244,15 @@ footer {
   =============================================*/
   #about{
     
-    background-color: #e0e5ec;
+    background-color:var(--ter-bg-color);
+  
     
    
   }
   .about-mf .box-shadow-full {
     padding-top: 4rem;
     padding-bottom: 4rem;
+    margin-top: 6rem;
   }
   
   .about-mf .about-img {
