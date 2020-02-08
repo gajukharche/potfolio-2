@@ -8,17 +8,10 @@
                 backDelay: 1100,
                 backSpeed: 30
             });
-        }
 
-       /*--/ Star ScrollTop /--*/
-	$('.scrolltop-mf').on("click", function () {
-		$('html, body').animate({
-			scrollTop: 0
-		}, 1000);
-	});
 
 	/*--/ Star Counter /--*/
 	$('.counter').counterUp({
 		delay: 15,
 		time: 2000
-	});
+    });
