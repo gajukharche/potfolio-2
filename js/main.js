@@ -8,3 +8,4 @@
                 backDelay: 1100,
                 backSpeed: 30
             });
+        }
