@@ -422,27 +422,5 @@ footer {
   font-size: 1.2rem;
 }
 
-.under-construction{
-  position: absolute;
-  left: 30%;
-  top: 30%;
-  z-index: 999;
- 
-}
-
-.under-construction h1{
-  font-size: 60px;
-  padding: 5px;
-  border-radius: 10px;
-  transform: scale(2);
-  background-color: var(--main-bg-color);
-  transition: all 1.5s ease-in-out;
-  color: #fff;
-}
-.under-construction h1:hover{
-  transform: none;
- 
-}
-
 
 /*============  End of Work section  =============*/
