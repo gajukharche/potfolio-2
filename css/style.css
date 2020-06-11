@@ -250,7 +250,7 @@ footer {
    
   }
   .about-mf .box-shadow-full {
-    padding-top: 4rem;
+    /* padding-top: 4rem; */
     padding-bottom: 4rem;
     margin-top: 6rem;
   }
@@ -283,7 +283,7 @@ footer {
       padding: 3rem 1.25rem;
       position: relative;
       background-color:#e0e5ec;
-      margin: 3rem;
+      /* margin: 3rem; */
       z-index: 2;
       border-radius: 10px;
       box-shadow: -9px -9px 16px 0px #fff,9px 9px 16px 0px #A3b1c6;
