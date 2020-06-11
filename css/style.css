@@ -227,6 +227,7 @@ footer {
   
   footer .copyright {
     margin: 0.5rem;
+    text-align: center;
   }
   
   footer .credits {
