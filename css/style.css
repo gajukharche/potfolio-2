@@ -124,7 +124,7 @@
 =============================================*/
 .intro{
     background: var(--main-bg-color);
-    color: #fff;
+    color: var(--sec-bg-color);
    
   
 }
@@ -222,7 +222,7 @@ footer {
     text-align: center;
     color: var(--main-bg-color);
     padding-bottom: 5px;
-    background:var(--ter-bg-color);;
+    background:var(--ter-bg-color);
   }
   
   footer .copyright {
