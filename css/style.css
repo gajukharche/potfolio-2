@@ -312,7 +312,7 @@ footer {
 .service-box:hover .ico-circle {
   transition: all 500ms ease;
   color: #fff;
-  background-color: #8400ff;
+  background-color: var( --main-bg-color);
   box-shadow: 0 0 0 10px #e3c5ff;
 }
 
