@@ -115,6 +115,10 @@
     transition: all 200ms linear;
 }
 
+.start-style {
+  background-color: var( --ter-bg-color);
+  box-shadow: -9px -9px 16px 0px #fff,9px 9px 16px 0px #A3b1c6;
+}
 
 /*============  End of Navbar  =============*/
 
@@ -125,8 +129,6 @@
 .intro{
     background: var(--ter-bg-color);
     color: var(--main-bg-color);
-   
-  
 }
 
 .intro-title{
