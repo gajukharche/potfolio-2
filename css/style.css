@@ -222,7 +222,7 @@ footer {
     text-align: center;
     color: var(--main-bg-color);
     padding-bottom: 5px;
-    background:#fff;
+    background:var(--ter-bg-color);;
   }
   
   footer .copyright {
@@ -306,6 +306,7 @@ footer {
   border-radius: 1rem;
   margin-bottom: 3rem;
   box-shadow: -9px -9px 16px 0px #fff,9px 9px 16px 0px #A3b1c6;
+  max-height: 350px;
 
 }
 
