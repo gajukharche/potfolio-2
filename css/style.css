@@ -123,8 +123,8 @@
 =                   Intro                   =
 =============================================*/
 .intro{
-    background: var(--main-bg-color);
-    color: var(--sec-bg-color);
+    background: var(--ter-bg-color);
+    color: var(--main-bg-color);
    
   
 }
